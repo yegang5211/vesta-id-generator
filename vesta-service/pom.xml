@@ -9,9 +9,7 @@
         <version>0.0.1</version>
     </parent>
 
-    <groupId>com.robert.vesta</groupId>
     <artifactId>vesta-service</artifactId>
-    <version>0.0.1</version>
     <name>vesta-service</name>
 
 
@@ -106,6 +104,15 @@
 
     <build>
         <plugins>
+        <plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-compiler-plugin</artifactId>
+				<configuration>
+					<source>${java.version}</source>
+					<target>${java.version}</target>
+					<encoding>${project.build.sourceEncoding}</encoding>
+				</configuration>
+			</plugin>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-source-plugin</artifactId>
