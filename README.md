@@ -7,13 +7,11 @@
 
 ## 2 项目主页 
 
-- [码云主页](https://gitee.com/robertleepeak/vesta-id-generator)
-- [Github主页](https://github.com/cloudatee/vesta-id-generator)
+- [Github主页](https://github.com/jf11480/vesta-id-generator)
 
 ## 3 源码下载
 
-- git clone https://gitee.com/robertleepeak/vesta-id-generator.git
-- git clone https://github.com/cloudatee/vesta-id-generator.git
+- git clone git@github.com:jf11480/vesta-id-generator.git
 
 ## 4 文档
 
@@ -28,6 +26,3 @@
 
 - [介绍](./vesta-doc/介绍.pptx)
 
-## 6 获得技术支持
-
-<a href="./vesta-theme/我的微信QR.jpeg"><img src="./vesta-theme/我的微信QR.jpeg" alt="cloudate-qrcode" width="150" height="190" class="alignnone size-full wp-image-1138" /></a>
